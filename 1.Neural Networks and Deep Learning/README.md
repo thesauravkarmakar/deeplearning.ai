@@ -1,5 +1,21 @@
+## Course Summary:  
+
+Here is the course summary as its given on the course [link](https://www.coursera.org/learn/neural-networks-deep-learning):
+
+> If you want to break into cutting-edge AI, this course will help you do so. Deep learning engineers are highly sought after, and mastering deep learning will give you numerous new career opportunities. Deep learning is also a new "superpower" that will let you build AI systems that just weren't possible a few years ago.
+>
+> In this course, you will learn the foundations of deep learning. When you finish this class, you will:
+> - Understand the major technology trends driving Deep Learning
+> - Be able to build, train and apply fully connected deep neural networks
+> - Know how to implement efficient (vectorized) neural networks
+> - Understand the key parameters in a neural network's architecture
+>
+> This course also teaches you how Deep Learning actually works, rather than presenting only a cursory or surface-level description. So after completing it, you will be able to apply deep learning to a your own applications. If you are looking for a job in AI, after this course you will also be able to answer basic interview questions.
+
+
+
 ## :mortar_board: Certificate
 
 <p align="center">
-  <img src="https://github.com/thesauravkarmakar/deeplearning.ai/blob/master/Neural%20Networks%20and%20Deep%20Learning/Coursera%203F5XK7JPTVKH.jpg" width="919" height="710"/>
+  <img src="https://github.com/thesauravkarmakar/deeplearning.ai/blob/master/1.Neural%20Networks%20and%20Deep%20Learning/Coursera%203F5XK7JPTVKH.jpg" width="919" height="710"/>
 </p>
