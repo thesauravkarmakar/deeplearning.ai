@@ -1,23 +1,19 @@
 ## Course summary
 
-Here is the course summary as its given on the course [link](https://www.coursera.org/learn/machine-learning-projects):
+Here is the course summary as its given on the course [link](https://www.coursera.org/learn/convolutional-neural-networks):
 
-> You will learn how to build a successful machine learning project. If you aspire to be a technical leader in AI, and know how to set direction for your team's work, this course will show you how.
+> This course will teach you how to build convolutional neural networks and apply it to image data. Thanks to deep learning, computer vision is working far better than just two years ago, and this is enabling numerous exciting applications ranging from safe autonomous driving, to accurate face recognition, to automatic reading of radiology images. 
 >
-> Much of this content has never been taught elsewhere, and is drawn from my experience building and shipping many deep learning products. This course also has two "flight simulators" that let you practice decision-making as a machine learning project leader. This provides "industry experience" that you might otherwise get only after years of ML work experience.
+> You will:
+> - Understand how to build a convolutional neural network, including recent variations such as residual networks.
+> - Know how to apply convolutional networks to visual detection and recognition tasks.
+> - Know to use neural style transfer to generate art.
+> - Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 >
-> After 2 weeks, you will: 
-> - Understand how to diagnose errors in a machine learning system, and 
-> - Be able to prioritize the most promising directions for reducing error
-> - Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
-> - Know how to apply end-to-end learning, transfer learning, and multi-task learning
->
-> I've seen teams waste months or years through not understanding the principles taught in this course. I hope this two week course will save you months of time.
->
-> This is a standalone course, and you can take this so long as you have basic machine learning knowledge. This is the third course in the Deep Learning Specialization.
+> This is the fourth course of the Deep Learning Specialization.
 
 ## :mortar_board: Certificate
 
 <p align="center">
-  <img src="https://github.com/thesauravkarmakar/deeplearning.ai/blob/master/3.Structuring%20Machine%20Learning%20Projects/Coursera%20TGLGFWQMBEXS.jpg" width="919" height="710"/>
+  <img src="https://github.com/thesauravkarmakar/deeplearning.ai/blob/master/4.Convolutional%20Neural%20Networks/Coursera%20PXBNUEM4P7DU.jpg" width="919" height="710"/>
 </p>
