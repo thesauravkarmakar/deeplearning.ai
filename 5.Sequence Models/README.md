@@ -14,5 +14,5 @@ Here is the course summary as its given on the course [link](https://www.courser
 ## :mortar_board: Certificate
 
 <p align="center">
-  <img src="https://github.com/thesauravkarmakar/deeplearning.ai/blob/master/4.Convolutional%20Neural%20Networks/Coursera%20PXBNUEM4P7DU.jpg" width="919" height="710"/>
+  <img src="https://github.com/thesauravkarmakar/deeplearning.ai/blob/master/5.Sequence%20Models/Coursera%20CS3X68WYK23W.jpg" width="919" height="710"/>
 </p>
