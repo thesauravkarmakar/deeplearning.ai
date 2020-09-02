@@ -13,6 +13,14 @@ This repository contains notes,solutions to all the programming assignments. Doi
     2. [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
     3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
     4. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+    5. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models)
+    
+## :mortar_board: Certificate
+
+<p align="center">
+  <img src="https://github.com/thesauravkarmakar/deeplearning.ai/blob/master/Final%20Certificate.jpg" width="751" height="580"/>
+</p>
+
 
 ## :smile: Author
 [Saurav Karmakar](https://github.com/thesauravkarmakar)
